@@ -1,0 +1,5 @@
+2captcha_python==1.1.2
+aiohttp==3.7.4.post0
+fake_useragent==0.1.11
+loguru==0.5.3
+twocaptcha==0.0.1
